@@ -1,7 +1,15 @@
+
 package com.RetailLocation.model;
 
+
 public class RetailLocation {
-public void m1() {
+
+  
+public void qaMethod() {
+
+
+  public void m1() {
+
 	
 }
 }
